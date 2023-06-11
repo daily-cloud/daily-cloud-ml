@@ -28,16 +28,16 @@ Daily Cloud has two models: Computer Vision (CV) and Natural Language Processing
 <hr>
 
 ## To Do
-[x] Research Similar Project for References
-[ ] Generate Initial Business Proposal
-[X] Preparing and Gathering Datasets 
-[x] Image Recognition Program
-[X] Text Classification Program
-[X] Image Recognition (Testing and Finalizing)
-[X] Text Classification (Testing and Finalizing)
-[X] Image Recognition (Testing and Improvement)
-[X] Text Classification (Testing and Improvement)
-[ ] Make the program runnable
+- [x] Research Similar Project for References
+- [ ] Generate Initial Business Proposal
+- [X] Preparing and Gathering Datasets 
+- [x] Image Recognition Program
+- [X] Text Classification Program
+- [X] Image Recognition (Testing and Finalizing)
+- [X] Text Classification (Testing and Finalizing)
+- [X] Image Recognition (Testing and Improvement)
+- [X] Text Classification (Testing and Improvement)
+- [ ] Make the program runnable
 
 <hr>
 
