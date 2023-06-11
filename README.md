@@ -12,11 +12,10 @@
   - [Description](#description)
   - [To Do](#to-do)
   - [Datasets](#datasets)
-  - [Architecture](#architecture)
+  - [Related Paper](#related-paper)
   - [Library](#library)
   - [How to use](#how-to-use)
   - [Author](#author)
-  - [Credits](#credits)
   - [Thank You](#thank-you)
 
 <hr>
@@ -46,38 +45,56 @@ Daily Cloud has two models: Computer Vision (CV) and Natural Language Processing
 
 ### Computer Vision Model is built by using 2 datasets
 
-* [Datasets 1]()
-* [Datasets 2]()
+* [Datasets 1](https://www.kaggle.com/datasets/ahsanfirdaus/happy-sad-7125)
+* [Datasets 2](https://www.kaggle.com/datasets/ahsanfirdaus/emotion-dataset-2)
 
 ### Natural Language Processing is built by using 1 dataset
 
-* [Dataset 1]()
+* [Dataset 1](https://www.kaggle.com/datasets/sxsntd/dataset)
 
 <hr>
 
-## Architecture
+## Related Paper
 
-The CV model is made as common CV model with differentiation on its label (emotion detection). 
-Next, the NLP model is made as .... (updated soon)
+### Computer Vision
+[https://arxiv.org/abs/1511.08458](https://arxiv.org/abs/1511.08458)
 
-<hr>
+### Natural Language Processing
+[https://arxiv.org/pdf/1904.04206.pdf](https://arxiv.org/pdf/1904.04206.pdf)
 
 ## Library
 
 For building our model, it is required to import a couple of libraries.
 ### Computer Vision Model Library
-
+- Numpy
+- Pandas
+- os
+- Tensorflow
+- Keras
+- Datetime
+- Matplotlib
+- PIL
+- Pathlib
 
 ### Natural Language Model Library 
-(soon)
+- Tensorflow
+- Sastrawi
+- Pandas
+- Matplotlib
+- Seaborn
+- NLTK
+- Scikit-learn
 
 <hr>
 
 ## How to Use
-(soon)
+Open to notebooks (.ipynb) files in kaggle and just run all the cell in the notebook.
+Notebook to run 
+- model-3-diff-test-96.ipynb
+- model-4-v3-94.ipynb
+- project-v1.ipynb
 
 <hr>
-
 
 ## Author
 
@@ -85,11 +102,6 @@ For building our model, it is required to import a couple of libraries.
 * M226DSY0150 - Sherly Santiadi - Kristen Maranatha University 
 
 <hr> 
-
-## Credits
-(soon)
-
-<hr>
 
 ## Thank You
 
