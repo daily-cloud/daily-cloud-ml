@@ -99,7 +99,7 @@ Notebook to run
 ## Author
 
 * M172DKX4195 - Ahsan Firdaus - Gunadarma University 
-* M226DSY0150 - Sherly Santiadi - Kristen Maranatha University 
+* M226DSY0150 - Sherly Santiadi - Maranatha Christian University 
 
 <hr> 
 
